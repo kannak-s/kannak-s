@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I am Kannak Sharma, currently a pre-final year student at Thapar University. I love programming and my go-to language is Python. I am very passionate about AI and have a lot of experience in creating deep learning and machine learning models to solve real-world problems. <br/>
+I am Kannak Sharma, currently a Masters in Robotics and Autonomous Systems - Artificial Intelligence student at Arizona State University. I love programming and my go-to language is Python. I am very passionate about AI and have a lot of experience in creating deep learning and machine learning models to solve real-world problems. <br/>
 
 <p style="text-align: center;">
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'>
